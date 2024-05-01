@@ -1,6 +1,6 @@
 
 # Simple Calculator
-This is a simple calculator program written in Python. It allows users to perform basic arithmetic operations.
+This is a simple calculator program written in Python. It allows users to perform basic arithmetic operations.                      
 created this program to practice some coding, hope you have fun with it.
 
 # Features
