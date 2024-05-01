@@ -1,9 +1,8 @@
-
-# Simple Calculator
+## Simple Calculator
 This is a simple calculator program written in Python. It allows users to perform basic arithmetic operations.                      
 created this program to practice some coding, hope you have fun with it.
 
-# Features
+## Features
 - User-friendly interface for entering numbers and selecting operations.
 - Supports addition (+), subtraction (-), multiplication (*), and division (/).
 - Handles division by zero gracefully.
